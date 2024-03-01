@@ -1,0 +1,5 @@
+tuns clasic,25,10
+Spalat uscat,15,10
+tuns 0,10,20
+Spalat+uscat,15,30
+Tuns periuta,35,25
